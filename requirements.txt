@@ -1,0 +1,7 @@
+streamlit
+edge-tts
+openai
+python-dotenv
+requests
+Pillow
+moviepy

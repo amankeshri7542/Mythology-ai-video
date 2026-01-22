@@ -1,0 +1,10 @@
+.env
+venv/
+__pycache__/
+.DS_Store
+*.mp3
+scene_*.png
+*_pre.png
+*_sub.png
+mythos_masterpiece.mp4
+mythos_saga.mp4
